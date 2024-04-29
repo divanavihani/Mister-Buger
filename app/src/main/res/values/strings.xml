@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">mister burger</string>
+    <string name="onboardscreen1text">The fastest delivery in your city</string>
+    <string name="onboardscreenrext2"><![CDATA[Enjoy lightning-fast service with our quickest  food delivery feature. Get your favorite healthy meals  delivered to your doorstep in record time, ensuring you  spend less time waiting and more time savoring your  delicious and nutritious dishe]]></string>
+    <string name="onbobutton">Next</string>
+    <string name="activityscreen1">Order Now</string>
+    <string name="signupusin">sign in using</string>
+    <string name="summary">Oder Summary</string>
+
+
+</resources>
